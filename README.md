@@ -1,5 +1,4 @@
 # gui_maker_gui
-This is a simple Python script that allows you to build a graphical user interface (GUI) using PySimpleGUI. The script provides a simple interface for choosing different types of GUI elements, such as buttons and input fields, and then customizing the appearance and behavior of those elements.
 GUI Builder
 
 This is a simple Python script that allows you to build a graphical user interface (GUI) using PySimpleGUI. The script provides a simple interface for choosing different types of GUI elements, such as buttons and input fields, and then customizing the appearance and behavior of those elements.
